@@ -44,3 +44,5 @@ python hangman.py
 - If the letter is part of the secret word, it will be revealed in the masked word.
 - If the letter is not part of the secret word, you will lose an attempt.
 - The game ends when you correctly guess the word or run out of attempts.
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fisaaclins%2FHangman-python%2F&label=VISITORS%3A&labelColor=%230d1117&countColor=%230d1117)
